@@ -16,8 +16,8 @@ Why is such a basic feature is not included in their virtualization software. Th
 
 ## Getting Started
 
-1. Clone this repository to your local machine.
-2. Copy the bat script to a common location for your user/the computer
+1. You don't even need to clone this repo. The readme is longer than the code itself.
+2. Copy the batch script to a common location for your user/the computer
 3. Follow the below instructions to set up group policy
 
 ## How to Contribute
