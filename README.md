@@ -36,7 +36,7 @@ To ensure the scripts run during unexpected shutdowns, you can utilize Group Pol
 
 ## Handling Pause on Logoff with Group Policy
 
-7. Repeat the above steps with the group policy path `User Configuration\Windows Settings\Scripts\Logoff.` if desired.
+1. Repeat the above steps with the group policy path `User Configuration\Windows Settings\Scripts\Logoff.` if desired.
 
 ## Testing you didn't mess this up
 `shutdown /s /t 120` to initiate a shutdown after 120 seconds. 
