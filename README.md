@@ -10,7 +10,7 @@ Have you ever sighed at the absence of an automatic pause feature during these e
 
 ## Why This Repository Exists
 
-**"VMWare, Why You No Pause Automatically during Unexpected Events?"**
+**"VMWare Workstation, Why You No Pause Automatically during Unexpected Events?"**
 
 Why is such a basic feature is not included in their virtualization software. This script fixes that. 
 
@@ -53,4 +53,4 @@ Check your VMWare installation path.
 
 ## Acknowledgments
 
-A big shoutout to VMWare for sucking and not having a basic feature in the GUI for licensed users. Your frustration inspired this project!
+A big shoutout to VMWare for sucking and not having a basic feature in the GUI for licensed Workstation users. Your frustration inspired this project!
