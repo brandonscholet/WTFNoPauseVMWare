@@ -1,6 +1,6 @@
 # WTFNoPauseVMWare
 
-![WTFNoPauseVMWare Logo](logo.png)
+![WTFNoPauseVMWare Logo](86hcuv.jpg)
 
 ## Overview
 
